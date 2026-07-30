@@ -1,87 +1,87 @@
-request.111222520.xyz:443 #Berkeley 01
-hk.cf.3666888.xyz:2096 #Berkeley 02
-www.leics.police.uk:2096 #Berkeley 03
-4.cf.3666888.xyz:2096 #Berkeley 04
-www.mlkj888.com:2096 #Berkeley 05
-yg8.ygkkk.dpdns.org:2096 #Berkeley 06
-yg9.ygkkk.dpdns.org:2096 #Berkeley 07
-zeas.top:2096 #Berkeley 08
-cdn.7zz.cn:2096 #Berkeley 09
-cf.cooteep.com:2096 #Berkeley 10
-jp.cf.3666888.xyz:2096 #Berkeley 11
-nas.chinwa.eu.cc:443 #Berkeley 12
-www.swowd.com:443 #Berkeley 13
-play.mc.js.cool:443 #Berkeley 14
-cdn.2x.nz:2087 #Berkeley 15
-vip.cf.3666888.xyz:443 #Berkeley 16
-store.ubi.com:2096 #Berkeley 17
-dongbanghong.com:443 #Berkeley 18
-01-qq.com:2096 #Berkeley 19
-www.broadcom.com:2096 #Berkeley 20
-www.bangbenjiaju.com:2096 #Berkeley 21
-eii.at:2096 #Berkeley 22
-avido.cf.3666888.xyz:2096 #Berkeley 23
-cf.xycf.asia:2096 #Berkeley 24
-saas.sin.fan:2096 #Berkeley 25
-ex.warspite.dpdns.org:2096 #Berkeley 26
-www.fastsoso.cn:2096 #Berkeley 27
-www.hdmoli.com:2096 #Berkeley 28
-103.198.203.182:443 #Berkeley 29
-64.186.244.59:50491 #Berkeley 30
-172.64.52.194:8443 #Berkeley 31
-191.222.213.10:443 #Berkeley 32
-191.222.213.13:443 #Berkeley 33
-191.222.213.62:443 #Berkeley 34
-191.222.213.66:443 #Berkeley 35
-191.222.213.69:443 #Berkeley 36
-191.222.213.93:443 #Berkeley 37
-191.222.213.95:443 #Berkeley 38
-191.222.213.110:443 #Berkeley 39
-191.222.213.113:443 #Berkeley 40
-191.222.213.116:443 #Berkeley 41
-191.222.213.120:443 #Berkeley 42
-191.222.213.143:443 #Berkeley 43
-191.222.213.148:443 #Berkeley 44
-191.222.213.170:443 #Berkeley 45
-191.222.213.191:443 #Berkeley 46
-191.222.213.198:443 #Berkeley 47
-191.222.213.234:443 #Berkeley 48
-191.222.213.235:443 #Berkeley 49
-191.222.213.238:443 #Berkeley 50
-nas.chinwa.eu.cc:2096 #Berkeley 51
-op.chinwa.eu.cc:2096 #Berkeley 52
-play.mc.js.cool:2096 #Berkeley 53
-sg.cf.3666888.xyz:2096 #Berkeley 54
-shanghai.mfa.gov.ua:2096 #Berkeley 55
-so.360832.xyz:2096 #Berkeley 56
-spring.io:2096 #Berkeley 57
-staticdelivery.nexusmods.com:2096 #Berkeley 58
-test.509666.xyz:2096 #Berkeley 59
-thebeat.gehealthcare.com:2096 #Berkeley 60
-versantstore.pearson.com:2096 #Berkeley 61
-vip.cf.3666888.xyz:2096 #Berkeley 62
-www.akasantech.com:2096 #Berkeley 63
-www.bis.gov:2096 #Berkeley 64
-www.cdzxdz.com:2096 #Berkeley 65
-www.crazygames.fr:2096 #Berkeley 66
-www.dentoncounty.gov:2096 #Berkeley 67
-www.galgamex.net:2096 #Berkeley 68
-www.giannidelprete.it:2096 #Berkeley 69
-www.gov.il:2096 #Berkeley 70
-www.jimdo.com:2096 #Berkeley 71
-www.jp.pima.gov:2096 #Berkeley 72
-www.mc.js.cool:2096 #Berkeley 73
-www.nexusmods.com:2096 #Berkeley 74
-www.ntu.edu.sg:2096 #Berkeley 75
-www.oopt.eu.cc:2096 #Berkeley 76
-www.ox.ac.uk:2096 #Berkeley 77
-www.sage.com:2096 #Berkeley 78
-www.sloomb.com:2096 #Berkeley 79
-www.swowd.com:2096 #Berkeley 80
-www.truepowerofblue.com:2096 #Berkeley 81
-www.xflash.vip:2096 #Berkeley 82
-www.xiaoshuofen.com:2096 #Berkeley 83
-yg3.ygkkk.dpdns.org:2096 #Berkeley 84
-yg4.ygkkk.dpdns.org:2096 #Berkeley 85
-yx.cf.090227.xyz:2096 #Berkeley 86
-yxip.xxxxxxxx.tk:2096 #Berkeley 87
+request.111222520.xyz:443#Berkeley 01
+hk.cf.3666888.xyz:2096#Berkeley 02
+www.leics.police.uk:2096#Berkeley 03
+4.cf.3666888.xyz:2096#Berkeley 04
+www.mlkj888.com:2096#Berkeley 05
+yg8.ygkkk.dpdns.org:2096#Berkeley 06
+yg9.ygkkk.dpdns.org:2096#Berkeley 07
+zeas.top:2096#Berkeley 08
+cdn.7zz.cn:2096#Berkeley 09
+cf.cooteep.com:2096#Berkeley 10
+jp.cf.3666888.xyz:2096#Berkeley 11
+nas.chinwa.eu.cc:443#Berkeley 12
+www.swowd.com:443#Berkeley 13
+play.mc.js.cool:443#Berkeley 14
+cdn.2x.nz:2087#Berkeley 15
+vip.cf.3666888.xyz:443#Berkeley 16
+store.ubi.com:2096#Berkeley 17
+dongbanghong.com:443#Berkeley 18
+01-qq.com:2096#Berkeley 19
+www.broadcom.com:2096#Berkeley 20
+www.bangbenjiaju.com:2096#Berkeley 21
+eii.at:2096#Berkeley 22
+avido.cf.3666888.xyz:2096#Berkeley 23
+cf.xycf.asia:2096#Berkeley 24
+saas.sin.fan:2096#Berkeley 25
+ex.warspite.dpdns.org:2096#Berkeley 26
+www.fastsoso.cn:2096#Berkeley 27
+www.hdmoli.com:2096#Berkeley 28
+103.198.203.182:443#Berkeley 29
+64.186.244.59:50491#Berkeley 30
+172.64.52.194:8443#Berkeley 31
+191.222.213.10:443#Berkeley 32
+191.222.213.13:443#Berkeley 33
+191.222.213.62:443#Berkeley 34
+191.222.213.66:443#Berkeley 35
+191.222.213.69:443#Berkeley 36
+191.222.213.93:443#Berkeley 37
+191.222.213.95:443#Berkeley 38
+191.222.213.110:443#Berkeley 39
+191.222.213.113:443#Berkeley 40
+191.222.213.116:443#Berkeley 41
+191.222.213.120:443#Berkeley 42
+191.222.213.143:443#Berkeley 43
+191.222.213.148:443#Berkeley 44
+191.222.213.170:443#Berkeley 45
+191.222.213.191:443#Berkeley 46
+191.222.213.198:443#Berkeley 47
+191.222.213.234:443#Berkeley 48
+191.222.213.235:443#Berkeley 49
+191.222.213.238:443#Berkeley 50
+nas.chinwa.eu.cc:2096#Berkeley 51
+op.chinwa.eu.cc:2096#Berkeley 52
+play.mc.js.cool:2096#Berkeley 53
+sg.cf.3666888.xyz:2096#Berkeley 54
+shanghai.mfa.gov.ua:2096#Berkeley 55
+so.360832.xyz:2096#Berkeley 56
+spring.io:2096#Berkeley 57
+staticdelivery.nexusmods.com:2096#Berkeley 58
+test.509666.xyz:2096#Berkeley 59
+thebeat.gehealthcare.com:2096#Berkeley 60
+versantstore.pearson.com:2096#Berkeley 61
+vip.cf.3666888.xyz:2096#Berkeley 62
+www.akasantech.com:2096#Berkeley 63
+www.bis.gov:2096#Berkeley 64
+www.cdzxdz.com:2096#Berkeley 65
+www.crazygames.fr:2096#Berkeley 66
+www.dentoncounty.gov:2096#Berkeley 67
+www.galgamex.net:2096#Berkeley 68
+www.giannidelprete.it:2096#Berkeley 69
+www.gov.il:2096#Berkeley 70
+www.jimdo.com:2096#Berkeley 71
+www.jp.pima.gov:2096#Berkeley 72
+www.mc.js.cool:2096#Berkeley 73
+www.nexusmods.com:2096#Berkeley 74
+www.ntu.edu.sg:2096#Berkeley 75
+www.oopt.eu.cc:2096#Berkeley 76
+www.ox.ac.uk:2096#Berkeley 77
+www.sage.com:2096#Berkeley 78
+www.sloomb.com:2096#Berkeley 79
+www.swowd.com:2096#Berkeley 80
+www.truepowerofblue.com:2096#Berkeley 81
+www.xflash.vip:2096#Berkeley 82
+www.xiaoshuofen.com:2096#Berkeley 83
+yg3.ygkkk.dpdns.org:2096#Berkeley 84
+yg4.ygkkk.dpdns.org:2096#Berkeley 85
+yx.cf.090227.xyz:2096#Berkeley 86
+yxip.xxxxxxxx.tk:2096#Berkeley 87
